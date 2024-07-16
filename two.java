@@ -4,7 +4,7 @@ public class two
 	{
 		system.out.println("welcome");
 	        system.out.println("to tumkur");
-		system.out.println("mysore");
+		system.out.println("mysore,gubbi");
 	}
 }
 
